@@ -1,26 +1,16 @@
-# CakePHP Application Skeleton
+# CakeFest 2016 source code for basic and advanced workshops
 
-[![Build Status](https://img.shields.io/travis/cakephp/app/master.svg?style=flat-square)](https://travis-ci.org/cakephp/app)
-[![License](https://img.shields.io/packagist/l/cakephp/app.svg?style=flat-square)](https://packagist.org/packages/cakephp/app)
+Source code used in both basic and advanced workshops.
 
-A skeleton for creating applications with [CakePHP](http://cakephp.org) 3.x.
+Checkout the "advanced" branch for the related workshop code.
 
-The framework source code can be found here: [cakephp/cakephp](https://github.com/cakephp/cakephp).
+## Videos
 
-## Installation
+Check the published videos:
 
-1. Download [Composer](http://getcomposer.org/doc/00-intro.md) or update `composer self-update`.
-2. Run `php composer.phar create-project --prefer-dist cakephp/app [app_name]`.
+* Basic Workshop - Jorge González (@stenikelz) - https://www.youtube.com/playlist?list=PLsrmQF03GOwCGEJtbXiGn2go1RwSoNZE9
+* Advanced Workshop - José Lorenzo (@jose_zap) - https://www.youtube.com/playlist?list=PLsrmQF03GOwD9sOjybuQkMe8-WzckFSOx
 
-If Composer is installed globally, run
-```bash
-composer create-project --prefer-dist cakephp/app [app_name]
-```
+## Tickets available!
 
-You should now be able to visit the path to where you installed the app and see
-the setup traffic lights.
-
-## Configuration
-
-Read and edit `config/app.php` and setup the 'Datasources' and any other
-configuration relevant for your application.
+Join us next CakeFest, check ticket prices here https://cakefest.org/tickets
